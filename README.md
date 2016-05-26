@@ -13,6 +13,6 @@ The objectives of the presentation are:
 
 
 ## Presentation online
-"RASPBERRY PI. De l’A a la Pi3, com treure’n profit" slides are stored in the [preset format](https://godoc.org/golang.org/x/tools/present), you can see the presentation online at [RaspberryPi - Girona+Tecnologica 2016](http://ghttp://go-talks.appspot.com/github.com/efarres/Girona-Tecnologica-2016/GironaTecnologica.slide#1)
+"RASPBERRY PI. De l’A a la Pi3, com treure’n profit" slides are stored in the [preset format](https://godoc.org/golang.org/x/tools/present), you can see the presentation online at [RaspberryPi - Girona+Tecnologica 2016](http://go-talks.appspot.com/github.com/efarres/Girona-Tecnologica-2016/GironaTecnologica.slide#1)
 
 
